@@ -1,1 +1,4 @@
 # HTML-Website
+This Grocery website has been designed by me and my groupmates using HTML,CSS and JavaScript.The Internet has made all of our lives easier. You can do almost anything online anymore, including purchasing your groceries. A lot of people have actually come to prefer buying their groceries online today. This website allows users to buy groceries online which are needed in day-to-day life. This includes fruits, vegetables, pulses, breads etc. 
+This is a user-friendly website in which customer can view the item and price of the item it is buying. Whenever you purchase your groceries online you will be able to shop any time of the day or night, at your own convenience, regardless of what the weather outside may be, and still get everything that you need and want. 
+Our website has easy to navigate interface and user friendly. 
